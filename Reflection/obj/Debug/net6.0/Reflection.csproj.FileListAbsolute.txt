@@ -1,0 +1,15 @@
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Reflection\Reflection\bin\Debug\net6.0\Reflection.exe
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Reflection\Reflection\bin\Debug\net6.0\Reflection.deps.json
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Reflection\Reflection\bin\Debug\net6.0\Reflection.runtimeconfig.json
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Reflection\Reflection\bin\Debug\net6.0\Reflection.dll
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Reflection\Reflection\bin\Debug\net6.0\Reflection.pdb
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Reflection\Reflection\obj\Debug\net6.0\Reflection.csproj.AssemblyReference.cache
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Reflection\Reflection\obj\Debug\net6.0\Reflection.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Reflection\Reflection\obj\Debug\net6.0\Reflection.AssemblyInfoInputs.cache
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Reflection\Reflection\obj\Debug\net6.0\Reflection.AssemblyInfo.cs
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Reflection\Reflection\obj\Debug\net6.0\Reflection.csproj.CoreCompileInputs.cache
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Reflection\Reflection\obj\Debug\net6.0\Reflection.dll
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Reflection\Reflection\obj\Debug\net6.0\refint\Reflection.dll
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Reflection\Reflection\obj\Debug\net6.0\Reflection.pdb
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Reflection\Reflection\obj\Debug\net6.0\Reflection.genruntimeconfig.cache
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Reflection\Reflection\obj\Debug\net6.0\ref\Reflection.dll
